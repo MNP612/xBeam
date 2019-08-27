@@ -1,2 +1,4 @@
 # xBeam
-This repository is a collection of jupyter notebooks containing evaluations and visualizations of physical equations frequently used in the 'liquid-jet x molecular beam' scattering project at UC Berkeley.
+This notebook is a compilation equations and visualizations that are frequently used at the **liquid jet X molecular beam** project at UC Berkeley. Content has no specific order.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MNP612/xBeam/master)
